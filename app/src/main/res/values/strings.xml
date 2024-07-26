@@ -2,4 +2,8 @@
     <string name="app_name">scrambleun</string>
     <string name="score">Score\n</string>
     <string name="word_count">Count\n</string>
+    <string name="instructions">Please type your word : </string>
+    <string name="enter_your_word">Please type your word : </string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
 </resources>
