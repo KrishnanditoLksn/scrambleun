@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">scrambleun</string>
+    <string name="score">Score\n</string>
+    <string name="word_count">Count\n</string>
 </resources>
